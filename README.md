@@ -1,8 +1,15 @@
 # Student Gradebook Manager
 
-## Python Essentials Gradebook
-A console program that stores students and their marks in memory and shows statistics such as averages, the top
+Sneakerhead20
+Data Science 
+
+## Description
+A console program that stores students and their marks in
+memory and shows statistics such as averages, the top
 student, and pass/fail lists.
+
+## How to run
+    python gradebook.py
 
 ## Features
 1. Add a student
